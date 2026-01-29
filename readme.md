@@ -28,7 +28,7 @@ LimFlow is designed to streamline collaboration for small teams. It handles task
 
 
 ## 🚀 Getting Started
-1. **Clone the repo:** `git clone https://github.com/yourusername/limflow.git`
+1. **Clone the repo:** `git clone https://github.com/laksh1t/limflow.git`
 2. **Setup Server:** `cd server && npm install`
 3. **Setup Client:** `cd client && npm install`
 4. **Environment Variables:** Create a `.env` file in the server folder (see `.env.example`).
